@@ -1,4 +1,4 @@
 import './style.css';
-import './src/index';
+import './src/blackjack/index';
 
 
